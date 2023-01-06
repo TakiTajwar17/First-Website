@@ -1,0 +1,32 @@
+p{
+    color: rgb(21, 9, 9);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    
+    text-transform: lowercase ;
+    line-height: 1;
+    letter-spacing: 2px;
+    text-justify: distribute-all-lines;
+   
+    background-color: rgb(185, 185, 162);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 02%;
+    ]
+    margin: 10px;
+    box-shadow: 2px 2px 2px black;}
+    .mango{
+        color: rgb(236, 28, 28);}
+
+.Baby{
+    font-weight: bold;
+    text-align: center;
+    background-image: url(https://t3.ftcdn.net/jpg/02/95/76/06/360_F_295760693_feGp9yTfHMfnw3YIPaHRyOrfsSDkf0vB.jpg);
+    background-size:cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+   
